@@ -1,5 +1,5 @@
 # Kanban Board
-
+![Kanban Preview](public/kanban-preview.png)
 A simple and interactive **Kanban Task Management Board** built using **React + Vite**.
 
 This application allows users to manage tasks using a visual board with three stages: **Todo, In Progress, and Done**.
